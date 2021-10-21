@@ -20,8 +20,8 @@ flask==2.0.2
 importlib-metadata==4.8.1
 #intel-openmp==2021.3.0
 #ipykernel==6.4.2
-#ipython==7.28.0
-#ipython_genutils==0.2.0
+ipython==7.28.0
+ipython_genutils==0.2.0
 itsdangerous==2.0.1
 jedi==0.18.0
 jinja2==3.0.1
